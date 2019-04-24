@@ -1,1 +1,3 @@
 # Control-de-inventario
+
+Existen empresas que tienen almacenes en lugares muy distantes entre sí, por lo que el control del inventario, se lleva de forma separada en cada almacén. Si se desea saber cuanto hay de un artículo en particular tendría que hacerse la consulta a cada uno de los lamacenes y luego hacer el consolidado. Para solucionar este problema, se desarrolla un sistema de control de inventarios vía web, que consiste en almacenar la información de inventarios en un servidor web, al cual puede accederse desde cualquier computador conectado a Internet. De esta forma el personal encargado podrá registrar los ingresos y salidas de los articulos de cada almacén de la empresa. La gerencia podrá consultar en tiempo real cual es el nivel de stock de cada artículo.
