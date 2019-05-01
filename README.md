@@ -2,7 +2,6 @@
 
 ### OBJETIVO GENERAL
 - En este proyecto se creara un sistema web donde el administrador encargado pueda controlar y revisar el inventario total, y también los empleados (Vendedores) puedan registrar las ventas. Asi se incrementara el control de los productos y reducir la perdida
-
 De inventario.
 
 
