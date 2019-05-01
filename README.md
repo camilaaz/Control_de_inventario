@@ -1,3 +1,29 @@
+# CONTROL DE INVENTARIO
+
+### OBJETIVO GENERAL
+- En este proyecto se creara un sistema web donde el administrador encargado pueda controlar y revisar el inventario total, y también los empleados (Vendedores) puedan registrar las ventas. Asi se incrementara el control de los productos y reducir la perdida
+
+De inventario.
+
+
+
+### OBJETIVO ESPECÌFICOS
+
+- Crear un sistema web que tendrá 2 perfiles: Vendedor y Administrador.
+
+- implementar una base de datos para la gestión del stocky de los vendedores.
+
+- El perfil de vendedor tendrá acceso a registrar ventas y podrá ver el stock del producto. 
+
+- El perfil de administrador tendrá acceso a la base de datos, podrá consultar, modificar el inventario y tambien ver información de los vendedores.
+
+
+
+
+
+
+
+
 # Control-de-inventario
 
 Existen empresas que tienen almacenes en lugares muy distantes entre sí, por lo que el control del inventario, se lleva de forma separada en cada almacén. Si se desea saber cuanto hay de un artículo en particular tendría que hacerse la consulta a cada uno de los lamacenes y luego hacer el consolidado. Para solucionar este problema, se desarrolla un sistema de control de inventarios vía web, que consiste en almacenar la información de inventarios en un servidor web, al cual puede accederse desde cualquier computador conectado a Internet. De esta forma el personal encargado podrá registrar los ingresos y salidas de los articulos de cada almacén de la empresa. La gerencia podrá consultar en tiempo real cual es el nivel de stock de cada artículo.
