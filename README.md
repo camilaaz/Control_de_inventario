@@ -53,17 +53,17 @@ Debido a esta gran necesidad de cambio, se desarrollará la automatización de l
   
   ## Asignación de actividades
   
- # CAMILA
+ # Camila
     1. Desarrollar pantalla de inicio de sesión 
     4. Desarrollar menus de acceso según el perfil de usuario
     7. Desarrollar un catalogo de productos
     
- # CHRISTIAN
+ # Christian
     2. Validar el acceso logico de usuarios
     5. Crear el CRUD de productos
     8. Validar el movimiento del inventario (registrar la salida y la entrada de productos)
     
-  # SANTIAGO
+  # Santiago
      3. Crear una captura de entrada a sesión
      6. Crear una pantalla de clasificaión de productos
      9. Crear informe del movimiento del inventario
