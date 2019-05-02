@@ -35,3 +35,48 @@ existen empresas que tienen almacenes (sucursales) muy distantes entre sí, por 
 
 La creciente complejidad de las organizaciones ha aumentado en gran medida la necesidad de tener información más conveniente y oportuna. Actualmente las organizaciones, ya sean públicas o privadas, se han unido a los avances tecnológicos de la época, los cuales tienden a convertirse en una herramienta importante para el desarrollo de las mismas, trayendo a favor un mejor desenvolvimiento del personal y rapidez en los procesos, lo que genera un mejor servicio.
 Debido a esta gran necesidad de cambio, se desarrollará la automatización de las actividades que se realizan en los diferentes procesos de una organización como es el registro de entradas y salidas del inventario de almacén.
+
+
+# Tablero de actividades
+
+  ## actividades
+  
+  1. Desarrollar pantalla de inicio de sesión 
+  2. Validar el acceso logico de usuarios
+  3. Crear una captura de entrada a sesión
+  4. Desarrollar menus de acceso según el perfil de usuario
+  5. Crear el CRUD de productos
+  6. Crear una pantalla de clasificaión de productos
+  7. Desarrollar un catalogo de productos
+  8. Validar el movimiento del inventario (registrar la salida y la entrada de productos)
+  9. Crear informe del movimiento del inventario
+  
+  ## Asignación de actividades
+  
+  CAMILA:
+    1. Desarrollar pantalla de inicio de sesión 
+    4. Desarrollar menus de acceso según el perfil de usuario
+    7. Desarrollar un catalogo de productos
+    
+  CHRISTIAN:
+    2. Validar el acceso logico de usuarios
+    5. Crear el CRUD de productos
+    8. Validar el movimiento del inventario (registrar la salida y la entrada de productos)
+    
+   SANTIAGO:
+     3. Crear una captura de entrada a sesión
+     6. Crear una pantalla de clasificaión de productos
+     9. Crear informe del movimiento del inventario
+
+
+   
+   
+
+  
+
+
+  
+
+
+
+  
