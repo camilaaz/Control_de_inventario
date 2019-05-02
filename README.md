@@ -42,31 +42,33 @@ Debido a esta gran necesidad de cambio, se desarrollará la automatización de l
   ## actividades
   
   1. Desarrollar pantalla de inicio de sesión 
-  2. Validar el acceso logico de usuarios
-  3. Crear una captura de entrada a sesión
-  4. Desarrollar menus de acceso según el perfil de usuario
-  5. Crear el CRUD de productos
-  6. Crear una pantalla de clasificaión de productos
-  7. Desarrollar un catalogo de productos
-  8. Validar el movimiento del inventario (registrar la salida y la entrada de productos)
-  9. Crear informe del movimiento del inventario
+  2. Crear una captura de entrada a sesión
+  3. Desarrollar menus de acceso según el perfil de usuario
+  4. Crear una pantalla para el CRUD de productos
+  5. Crear una pantalla de clasificaión de productos
+  6. Desarrollar un catalogo de productos
+  7. Desarrollar pantalla para el registro de la salida y la entrada de productos
+  8. Crear una pantalla para visualizar informe del movimiento del inventario
   
   ## Asignación de actividades
   
  # Camila
-    1. Desarrollar pantalla de inicio de sesión 
-    4. Desarrollar menus de acceso según el perfil de usuario
-    7. Desarrollar un catalogo de productos
+     1. Desarrollar pantalla de inicio de sesión 
+     4. Crear una pantalla para el CRUD de productos
+     7. Desarrollar pantalla para el registro de la salida y la entrada de productos
+
     
  # Christian
-    2. Validar el acceso logico de usuarios
-    5. Crear el CRUD de productos
-    8. Validar el movimiento del inventario (registrar la salida y la entrada de productos)
+     2. Crear una captura de entrada a sesión
+     5. Crear una pantalla de clasificaión de productos
+     8. Crear una pantalla para visualizar informe del movimiento del inventario
+
+    
     
   # Santiago
-     3. Crear una captura de entrada a sesión
-     6. Crear una pantalla de clasificaión de productos
-     9. Crear informe del movimiento del inventario
+    3. Desarrollar menus de acceso según el perfil de usuario
+    6. Crear una pantalla de clasificaión de productos
+    8. Crear una pantalla para visualizar informe del movimiento del inventario
 
 
    
